@@ -1,0 +1,277 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\34a7250b9040297c32b8937f9d8fb692\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\exoplayer-2.7.1.aar\3ea40a93a2d1bad30682aa68ff400966\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b3de133e653f61a88812cd6394eebbc1\AndroidManifest.xml:2:1-11:12
+MERGED from [:gvr_common] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\sdk-common-1.130.0.aar\1db72494aa956b5f4e64110cda5b161d\AndroidManifest.xml:2:1-9:12
+MERGED from [:arcore_client] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\core-1.10.0.aar\24fd5bb278e7364c54220ef7b1dfb1b6\AndroidManifest.xml:17:1-46:12
+MERGED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\59f9bcd04e394de8113b82773f31ad43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\f785772c78267e99a29042d42cfba32a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2f12ff257fd67133dc7ee389d77abb09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a75369c5c156541bd405d469d63be985\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2792090b5a74ca245b7c17a9fb3d47c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bc7c5556b48f8e2c63f27a04746b063d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\82212ed703188ce95dbec0e9e2d57bcc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f6d752ec070510c98f4fc517a2da5b70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e180a252ba18e0716ac2f1d5d699f3e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\536e8243830f5d3cbca1a7a5cc45a48a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\09b9731d9f2b6ddb3d94424e70aaeda7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\18723d9a2739b4634498d36e3fabe738\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\410d56b2958f56cc73a58b5a341eaaa5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\873999aa93294789b5cd54fc351467cc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5fb4d2ccf55d5cd22ba883d5cebde019\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\9cf7e182b481bf60c0efab69af3a738d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.7.1.aar\464793984a6eacb3402398baa8370074\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.7.1.aar\edd8998cd9a2f5f6b3ca193143b0b7bf\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.7.1.aar\a966246172d50393b5e9566052404e71\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.7.1.aar\b5476738dcedcc239a3b3e1dac3ace1a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.7.1.aar\d9a2e1d0a39d576d480a98d30df81e0a\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fabc7f3d272956b2719261e3780e2233\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9228dd2e6fff6350b737bd1fa47df85f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\28d55907084f36311b12660b807fe596\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2599b4f4019a70092695671b995f03e3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\5b41bfb327c5b1ba67d777ae759815d1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e5fed6215b25ecfee0b0aa06fb0c5503\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\34a4d84e421c807e3bcd8f981bf2352e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2702a9c3abbec8720128380730a5e26e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\313ae4162d33d18a86c335c797987cfc\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:6:5-64
+	android:name
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:9:5-70
+MERGED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:20:5-71
+MERGED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:12:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b3de133e653f61a88812cd6394eebbc1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b3de133e653f61a88812cd6394eebbc1\AndroidManifest.xml:9:5-20
+MERGED from [:arcore_client] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\core-1.10.0.aar\24fd5bb278e7364c54220ef7b1dfb1b6\AndroidManifest.xml:30:5-44:19
+MERGED from [:arcore_client] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\core-1.10.0.aar\24fd5bb278e7364c54220ef7b1dfb1b6\AndroidManifest.xml:30:5-44:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\873999aa93294789b5cd54fc351467cc\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\873999aa93294789b5cd54fc351467cc\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5fb4d2ccf55d5cd22ba883d5cebde019\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5fb4d2ccf55d5cd22ba883d5cebde019\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\873999aa93294789b5cd54fc351467cc\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:17:9-40
+meta-data#com.viromedia.API_KEY
+ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:19:9-21:44
+	android:value
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:21:13-41
+	android:name
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:20:13-49
+meta-data#com.google.ar.core
+ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:23:9-81
+	android:value
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:23:54-78
+	android:name
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:23:20-53
+activity#com.example.virosample.ViroActivity
+ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:screenOrientation
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:28:13-49
+	android:configChanges
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:27:13-74
+	android:name
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:26:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml
+INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\34a7250b9040297c32b8937f9d8fb692\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\34a7250b9040297c32b8937f9d8fb692\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\exoplayer-2.7.1.aar\3ea40a93a2d1bad30682aa68ff400966\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\exoplayer-2.7.1.aar\3ea40a93a2d1bad30682aa68ff400966\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b3de133e653f61a88812cd6394eebbc1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b3de133e653f61a88812cd6394eebbc1\AndroidManifest.xml:5:5-7:41
+MERGED from [:gvr_common] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\sdk-common-1.130.0.aar\1db72494aa956b5f4e64110cda5b161d\AndroidManifest.xml:5:5-7:41
+MERGED from [:gvr_common] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\sdk-common-1.130.0.aar\1db72494aa956b5f4e64110cda5b161d\AndroidManifest.xml:5:5-7:41
+MERGED from [:arcore_client] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\core-1.10.0.aar\24fd5bb278e7364c54220ef7b1dfb1b6\AndroidManifest.xml:26:5-28:41
+MERGED from [:arcore_client] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\core-1.10.0.aar\24fd5bb278e7364c54220ef7b1dfb1b6\AndroidManifest.xml:26:5-28:41
+MERGED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:7:5-9:41
+MERGED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\59f9bcd04e394de8113b82773f31ad43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\59f9bcd04e394de8113b82773f31ad43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\f785772c78267e99a29042d42cfba32a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\f785772c78267e99a29042d42cfba32a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2f12ff257fd67133dc7ee389d77abb09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2f12ff257fd67133dc7ee389d77abb09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a75369c5c156541bd405d469d63be985\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a75369c5c156541bd405d469d63be985\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2792090b5a74ca245b7c17a9fb3d47c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2792090b5a74ca245b7c17a9fb3d47c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bc7c5556b48f8e2c63f27a04746b063d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bc7c5556b48f8e2c63f27a04746b063d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\82212ed703188ce95dbec0e9e2d57bcc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\82212ed703188ce95dbec0e9e2d57bcc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f6d752ec070510c98f4fc517a2da5b70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f6d752ec070510c98f4fc517a2da5b70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e180a252ba18e0716ac2f1d5d699f3e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e180a252ba18e0716ac2f1d5d699f3e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\536e8243830f5d3cbca1a7a5cc45a48a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\536e8243830f5d3cbca1a7a5cc45a48a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\09b9731d9f2b6ddb3d94424e70aaeda7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\09b9731d9f2b6ddb3d94424e70aaeda7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\18723d9a2739b4634498d36e3fabe738\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\18723d9a2739b4634498d36e3fabe738\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\410d56b2958f56cc73a58b5a341eaaa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\410d56b2958f56cc73a58b5a341eaaa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\873999aa93294789b5cd54fc351467cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\873999aa93294789b5cd54fc351467cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5fb4d2ccf55d5cd22ba883d5cebde019\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5fb4d2ccf55d5cd22ba883d5cebde019\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\9cf7e182b481bf60c0efab69af3a738d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\9cf7e182b481bf60c0efab69af3a738d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.7.1.aar\464793984a6eacb3402398baa8370074\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.7.1.aar\464793984a6eacb3402398baa8370074\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.7.1.aar\edd8998cd9a2f5f6b3ca193143b0b7bf\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.7.1.aar\edd8998cd9a2f5f6b3ca193143b0b7bf\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.7.1.aar\a966246172d50393b5e9566052404e71\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.7.1.aar\a966246172d50393b5e9566052404e71\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.7.1.aar\b5476738dcedcc239a3b3e1dac3ace1a\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.7.1.aar\b5476738dcedcc239a3b3e1dac3ace1a\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.7.1.aar\d9a2e1d0a39d576d480a98d30df81e0a\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.7.1.aar\d9a2e1d0a39d576d480a98d30df81e0a\AndroidManifest.xml:21:5-23:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fabc7f3d272956b2719261e3780e2233\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fabc7f3d272956b2719261e3780e2233\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9228dd2e6fff6350b737bd1fa47df85f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9228dd2e6fff6350b737bd1fa47df85f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\28d55907084f36311b12660b807fe596\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\28d55907084f36311b12660b807fe596\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2599b4f4019a70092695671b995f03e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2599b4f4019a70092695671b995f03e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\5b41bfb327c5b1ba67d777ae759815d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\5b41bfb327c5b1ba67d777ae759815d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e5fed6215b25ecfee0b0aa06fb0c5503\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e5fed6215b25ecfee0b0aa06fb0c5503\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\34a4d84e421c807e3bcd8f981bf2352e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\34a4d84e421c807e3bcd8f981bf2352e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2702a9c3abbec8720128380730a5e26e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2702a9c3abbec8720128380730a5e26e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\313ae4162d33d18a86c335c797987cfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\313ae4162d33d18a86c335c797987cfc\AndroidManifest.xml:20:5-44
+INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml
+INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml
+		ADDED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Desktop\ARCore-Location\virocore\code-samples\ARHelloWorldAndroid\app\src\main\AndroidManifest.xml
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\core-1.10.0.aar\24fd5bb278e7364c54220ef7b1dfb1b6\AndroidManifest.xml:33:9-35:41
+	android:value
+		ADDED from [:arcore_client] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\core-1.10.0.aar\24fd5bb278e7364c54220ef7b1dfb1b6\AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from [:arcore_client] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\core-1.10.0.aar\24fd5bb278e7364c54220ef7b1dfb1b6\AndroidManifest.xml:34:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [:arcore_client] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\core-1.10.0.aar\24fd5bb278e7364c54220ef7b1dfb1b6\AndroidManifest.xml:37:9-43:80
+	android:excludeFromRecents
+		ADDED from [:arcore_client] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\core-1.10.0.aar\24fd5bb278e7364c54220ef7b1dfb1b6\AndroidManifest.xml:40:13-46
+	android:launchMode
+		ADDED from [:arcore_client] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\core-1.10.0.aar\24fd5bb278e7364c54220ef7b1dfb1b6\AndroidManifest.xml:42:13-43
+	android:exported
+		ADDED from [:arcore_client] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\core-1.10.0.aar\24fd5bb278e7364c54220ef7b1dfb1b6\AndroidManifest.xml:41:13-37
+	android:configChanges
+		ADDED from [:arcore_client] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\core-1.10.0.aar\24fd5bb278e7364c54220ef7b1dfb1b6\AndroidManifest.xml:39:13-74
+	android:theme
+		ADDED from [:arcore_client] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\core-1.10.0.aar\24fd5bb278e7364c54220ef7b1dfb1b6\AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from [:arcore_client] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\core-1.10.0.aar\24fd5bb278e7364c54220ef7b1dfb1b6\AndroidManifest.xml:38:13-62
+uses-feature#0x00030000
+ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:11:5-13:35
+	android:glEsVersion
+		ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:12:9-41
+	android:required
+		ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:13:9-32
+uses-permission#android.permission.VIBRATE
+ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:16:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:18:22-77
+uses-permission#android.permission.NFC
+ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:23:5-62
+	android:name
+		ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:23:22-59
+uses-permission#android.permission.INTERNET
+ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:25:22-64
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:28:5-30:35
+	android:required
+		ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:30:9-32
+	android:name
+		ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:29:9-61
+uses-feature#android.hardware.sensor.gyroscope
+ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:31:5-33:35
+	android:required
+		ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:33:9-32
+	android:name
+		ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:32:9-57
+uses-feature#android.software.vr.mode
+ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:37:9-48
+uses-feature#android.hardware.vr.high_performance
+ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:40:5-42:36
+	android:required
+		ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:42:9-33
+	android:name
+		ADDED from [:viro_core] C:\Users\ruca\.gradle\caches\transforms-1\files-1.1\virocore-release-v_1_17_0.aar\c2b2ea2abf701eead15c2ac137acf742\AndroidManifest.xml:41:9-60
